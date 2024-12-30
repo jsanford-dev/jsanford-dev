@@ -27,7 +27,7 @@ Kia ora! I'm a portfolio manager from New Zealand with a passion for **fixed inc
 ---
 
 ## ✨ **Fun Facts**  
-- 🏃 I enjoy running and recently started training for a **half marathon**.  
+- 🏃 I enjoy running and recently completed a **half marathon** in 1:48:09.  
 - 🏀 A proud **Boston Celtics fan** since 2008.  
 - 🎥 *No Country for Old Men* is a cinematic masterpiece.  
 - 🌍 I've traveled to **12 countries**, including the Germany, Malaysia, and Spain.
