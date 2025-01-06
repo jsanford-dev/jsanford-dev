@@ -22,7 +22,11 @@ Kia ora! I'm a portfolio manager from New Zealand with a passion for **fixed inc
 ## 📂 **Highlighted Projects**  
 ### 1️⃣ **Bond Pricing Engine**  
 📜 **Description:** A Python-based tool for calculating clean and dirty bond prices, accrued interest, and supporting fixed-income instruments such as nominal bonds, inflation-indexed bonds, and Treasury bills. 
-🔗 **[View Repository](https://github.com/jsanford-dev/bond_pricing_engine)**  
+🔗 **[View Repository](https://github.com/jsanford-dev/bond_pricing_engine)**
+
+### 2️⃣ **Asteroids game**  
+📜 **Description:** A python based remake of the classic game "Asteroids", built with Pygame. Inspired by the "Alien Invasion" project in 'Python Crash Course" by Eric Matthes, with additional features and mechanics.
+🔗 **[View Repository](https://github.com/jsanford-dev/asteroids_game)**
 
 ---
 
